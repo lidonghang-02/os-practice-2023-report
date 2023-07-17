@@ -35,7 +35,7 @@ sudo apt install gdb-multiarch
 ![[gdb.png]]
 # 调试
 1. 创建hello.c文件
-![[hello.c.png]]
+![[hello.png]]
 2. 使用gcc编译
 ```bash
 riscv64-unknown-elf-gcc -march=rv32ima -mabi=ilp32 hello.c 

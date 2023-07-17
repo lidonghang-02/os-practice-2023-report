@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -206,16 +206,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a4904448038a5a2a",
+  "active": "c3c6d7581a6a935b",
   "lastOpenFiles": [
+    "软件2101-李东航-20212241283/pic/gcc.png",
+    "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
+    "paperMarkdown-main/README.md",
     "李东航-os-practice-2023-report-v0.1/pic/2_000.png",
     "软件2101-李东航-20212241283/pic/qemu运行.png",
-    "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
     "软件2101-李东航-20212241283/pic/gcc编译.png",
-    "软件2101-李东航-20212241283/pic/hello.c.png",
+    "软件2101-李东航-20212241283/pic/hello.png",
     "软件2101-李东航-20212241283/pic/gdb.png",
     "软件2101-李东航-20212241283/pic/qemu.png",
-    "软件2101-李东航-20212241283/pic/gcc.png",
     "李东航-os-practice-2023-report-v0.1/pic/1_004 1.png",
     "李东航-os-practice-2023-report-v0.1/pic/1.png",
     "软件2101-李东航-20212241283/pic",
@@ -223,7 +224,6 @@
     "paperMarkdown-main/os-practice-2023-report-template 1.md",
     "paperMarkdown-main/template.md",
     "paperMarkdown-main/paperstrict_preview.pdf",
-    "paperMarkdown-main/README.md",
     "软件2101-李东航-20212241283",
     "paperMarkdown-main/paper_preview.pdf"
   ]

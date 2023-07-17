@@ -16,7 +16,8 @@
 ```bash
 sudo apt install gcc-riscv64-unknown-elf
 ```
-![[./pic/gcc.png]]
+![](./pic/gcc.png "gcc")
+
 ## 模拟器qemu的安装
 1. 概念
 > QEMU是一个开源的模拟器和虚拟机管理器，可以模拟多种体系结构的计算机硬件，并在其上运行不同的操作系统。
@@ -24,7 +25,7 @@ sudo apt install gcc-riscv64-unknown-elf
 ```bash
 sudo apt-get install qemu-system-misc qemu-user
 ```
-![[./pic/qemu.png]]
+![](./pic/qemu.png "qemu")
 ## 调试器gdb的安装
 1. 概念
 > GDB，GNU项目调试器，用于查看另一个程序在执行过程中正在执行的操作，或该程序崩溃时正在执行的操作
@@ -32,20 +33,20 @@ sudo apt-get install qemu-system-misc qemu-user
 ```bash
 sudo apt install gdb-multiarch
 ```
-![[./pic/gdb.png]]
+![](./pic/gdb.png "gdb")
 # 调试
 1. 创建hello.c文件
-![[./pic/hello.c.png]]
+![](./pic/hello.png "hello.c")
 2. 使用gcc编译
 ```bash
 riscv64-unknown-elf-gcc -march=rv32ima -mabi=ilp32 hello.c 
 ```
-![[./pic/gcc编译.png]]
+![](./pic/gcc编译.png "gcc编译")
 3. 使用qemu的user模式直接运行a.out文件
 ```bash
 qemu-riscv32 ./a.out
 ```
-![[./pic/qemu运行.png]]
+![](./pic/qemu运行.png "qemu运行.")
 
 
 <h3><center>参考文献</center></h3>
