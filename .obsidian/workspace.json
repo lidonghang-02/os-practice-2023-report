@@ -8,73 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3c6d7581a6a935b",
+            "id": "bdfcab4752957df1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31777c9f7ebbcb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
+                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "207ad6da8f618f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "245bd9ea9727c217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ed237bc47f47740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9122e92c615ef939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -129,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "226a1f933ca805f5",
@@ -145,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
+                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
+                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md"
+                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md"
               }
             }
           }
@@ -206,25 +147,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3c6d7581a6a935b",
+  "active": "bdfcab4752957df1",
   "lastOpenFiles": [
-    "软件2101-李东航-20212241283/pic/gcc.png",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804103108.png",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804100005.png",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804100004.png",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804094813.png",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804093902.png",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804093730.png",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230803161840.png",
+    "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230803162023.png",
+    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230803161740.png",
+    "pic/1.png",
+    "软件2101-李东航-20212241283/pic/v0.2",
     "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
+    "软件2101-李东航-20212241283/pic/Pasted image 20230803161317.png",
+    "exercises.md",
+    "软件2101-李东航-202122412832",
     "paperMarkdown-main/README.md",
-    "李东航-os-practice-2023-report-v0.1/pic/2_000.png",
-    "软件2101-李东航-20212241283/pic/qemu运行.png",
-    "软件2101-李东航-20212241283/pic/gcc编译.png",
-    "软件2101-李东航-20212241283/pic/hello.png",
-    "软件2101-李东航-20212241283/pic/gdb.png",
-    "软件2101-李东航-20212241283/pic/qemu.png",
-    "李东航-os-practice-2023-report-v0.1/pic/1_004 1.png",
-    "李东航-os-practice-2023-report-v0.1/pic/1.png",
-    "软件2101-李东航-20212241283/pic",
-    "未命名",
-    "paperMarkdown-main/os-practice-2023-report-template 1.md",
-    "paperMarkdown-main/template.md",
+    "pic",
+    "1",
+    "README.md",
     "paperMarkdown-main/paperstrict_preview.pdf",
-    "软件2101-李东航-20212241283",
-    "paperMarkdown-main/paper_preview.pdf"
+    "paperMarkdown-main/paper_preview.pdf",
+    "paperMarkdown-main/os-practice-2023-report-template 1.md",
+    "软件2101-李东航-20212241283.tar.gz",
+    "软件2101-李东航-20212241283/pic",
+    "paperMarkdown-main/template.md",
+    "软件2101-李东航-20212241283"
   ]
 }
