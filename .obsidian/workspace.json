@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "93c6cb7bc0c93db1",
+        "id": "cc96759e812e9d33",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfcab4752957df1",
+            "id": "21768f062ca806ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
+                "file": "note/第15章 软件定时器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39f1695f730fca57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/第16章 系统调用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,29 +94,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "852edb73d42371ab",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "d7fafdb5381982a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
+                "file": "note/第16章 系统调用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +122,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md"
+                "file": "note/第16章 系统调用.md"
+              }
+            }
+          },
+          {
+            "id": "75c8066db7cc3072",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note/第16章 系统调用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -147,30 +160,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bdfcab4752957df1",
+  "active": "39f1695f730fca57",
   "lastOpenFiles": [
+    "note/第15章 软件定时器.md",
+    "note/第16章 系统调用.md",
+    "note/pic/pic2/Pasted image 20230806152242.png",
+    "2023-08-06.md",
+    "未命名.md",
+    "note/第14章 任务同步和锁.md",
+    "note/pic/pic2/Pasted image 20230806142503.png",
+    "note/pic/pic2/Pasted image 20230806140804.png",
+    "note/pic/pic2/Pasted image 20230806132543.png",
+    "note/第10章 Trap和Exception.md",
+    "note/pic/pic2/Pasted image 20230806131940.png",
+    "note/第13章 抢占式多任务.md",
+    "note/pic/pic2/Pasted image 20230806121822.png",
+    "note/pic/pic2/Pasted image 20230806121525.png",
+    "note/pic/pic2/Pasted image 20230806121107.png",
+    "note/pic/pic2/Pasted image 20230806121105.png",
+    "未命名.canvas",
+    "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
+    "note/pic/pic2/Pasted image 20230806102659.png",
+    "note/第12章 硬件定时器.md",
+    "note/第11章 外部设备中断.md",
+    "note/pic/pic2",
+    "note/pic/pic1",
+    "note/pic",
+    "note",
     "exercises/exercises_5-9/test.c",
     "exercises/exercises_5-9/temp.c",
     "exercises/exercises_5-9/gdbinit",
     "exercises/exercises_5-9/Makefile",
     "exercises/exercises_5-8/test.s",
     "exercises/exercises_5-8/test.elf",
-    "exercises/exercises_5-8/test.bin",
-    "exercises/exercises_5-8/gdbinit",
-    "exercises/exercises_5-8/Makefile",
-    "exercises/exercises_5-7/test.s",
-    "exercises/exercises_5-7/test.elf",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804103108.png",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804100005.png",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804100004.png",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804094813.png",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804093902.png",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230804093730.png",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230803161840.png",
-    "软件2101-李东航-20212241283/os-practice-2023-report-v0.2.md",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230803162023.png",
-    "软件2101-李东航-20212241283/pic/v0.2/Pasted image 20230803161740.png",
-    "pic/1.png",
     "软件2101-李东航-20212241283/os-practice-2023-report-v0.1.md",
     "exercises.md",
     "paperMarkdown-main/README.md",
