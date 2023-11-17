@@ -1,7 +1,7 @@
 <p>
     <center><font size=8 face="楷体">操作系统实践课程结课报告</font></center><br>
 	<center><font size=5 face="楷体">目标：环境搭建 </font></center>
-	<center><font face="楷体">作者：李东航（学号：20212241283）</font></center>
+	<center><font face="楷体">作者：lidonghang-02</font></center>
 	<center><font face="楷体">日期：2023年7月</font></center>
 </p>
 
